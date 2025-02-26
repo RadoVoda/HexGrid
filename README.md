@@ -1,0 +1,2 @@
+# HexGrid
+Hexagonal grid library
